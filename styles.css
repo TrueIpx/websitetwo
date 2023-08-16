@@ -1,0 +1,18 @@
+.color {
+    color:red;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    color: blue;
+    padding: 100px;
+    justify-content: center;
+}
+
+
+.ul {
+    display: inline-block;
+    justify-content: center;
+    color: blue;
+}
